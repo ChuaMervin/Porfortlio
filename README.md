@@ -1,5 +1,5 @@
 # [Project 1 : Forecasting Consumer Price Index (CPI) of Singapore](https://github.com/ChuaMervin/SG_CPI/blob/main/Academic%20Project.pdf)
-Perform statiscal analysis to forecast the Consumer Price Index of Singapore for the month of February 2019.
+Perform statistical analysis to forecast the Consumer Price Index of Singapore for the month of February 2019.
 ## Project Overview
 * Plotting of graph to understand the trend and pattern of the Consumer Price Index of Singapore over the years.
 * Ensure that the times series we are working on is stationary by making the appropriate adjustment. 
