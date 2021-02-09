@@ -7,6 +7,10 @@ Perform statistical analysis to forecast the Consumer Price Index of Singapore f
 * Forecast the monthly CPI for the month of February and obtained a 95% forecast interval for it by using our auto regression model.
 * Reverse engineer the adjustment made previously to get the correct forecast value.
 
+<p align="center">
+  <img width="800" height="640" src="https://github.com/ChuaMervin/SG_CPI/blob/main/CPI.png">
+</p>
+
 
 # [Project 2: Predicting the survival of the passenger on Titanic](https://github.com/ChuaMervin/Titanic_ML/blob/main/Titanic%20ML.ipynb)
 Data Science project that utilizes machine learning models to predict the survival outcome of the passenger on the Titanic shipwreck.
