@@ -1,4 +1,4 @@
-# [Project 1: Forecasting Consumer Price Index (CPI) of Singapore](https://github.com/ChuaMervin/SG_CPI/blob/main/Academic%20Project.pdf)
+# [Forecasting Consumer Price Index (CPI) of Singapore](https://github.com/ChuaMervin/SG_CPI/blob/main/Academic%20Project.pdf)
 Perform statistical analysis to forecast the Consumer Price Index of Singapore for the month of February 2019.
 ## Project Overview
 * Plotting of graph to understand the trend and pattern of the Consumer Price Index of Singapore over the years.
@@ -12,7 +12,7 @@ Perform statistical analysis to forecast the Consumer Price Index of Singapore f
 </p>
 
 
-# [Project 2: Predicting the survival of the passenger on Titanic](https://github.com/ChuaMervin/Titanic_ML/blob/main/Titanic%20ML.ipynb)
+# [Predicting the survival of the passenger on Titanic](https://github.com/ChuaMervin/Titanic_ML/blob/main/Titanic%20ML.ipynb)
 Data Science project that utilizes machine learning models to predict the survival outcome of the passenger on the Titanic shipwreck.
 ## Project Overview
 *	The data set was obtained from the Kaggle competition Titanic – Machine Learning from Disaster.
@@ -30,7 +30,7 @@ Data Science project that utilizes machine learning models to predict the surviv
 </p>
 
 
-# [Project 3: Dogs vs Cats Classifier](https://github.com/ChuaMervin/Dogs-vs-Cats/blob/main/Dogs%20vs%20Cats%20Classification.ipynb)
+# [Dogs vs Cats Classifier](https://github.com/ChuaMervin/Dogs-vs-Cats/blob/main/Dogs%20vs%20Cats%20Classification.ipynb)
 Data Science project that utilizes deep learning convolutional neural network for image classification.
 ## Project Overview
 *	The images dataset was obtained from the Kaggle competition Dogs vs. Cats
