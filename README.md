@@ -8,7 +8,7 @@ Perform statistical analysis to forecast the Consumer Price Index of Singapore f
 * Reverse engineer the adjustment made previously to get the correct forecast value.
 
 <p align="center">
-  <img width="700" height="540" src="https://github.com/ChuaMervin/SG_CPI/blob/main/CPI.png">
+  <img width="700" height="540" src="/images/CPI.png">
 </p>
 
 
@@ -26,7 +26,7 @@ Data Science project that utilizes machine learning models to predict the surviv
 *	Appending the result into an excel file and upload it into the Kaggle competition
 
 <p align="center">
-  <img width="600" height="380" src="https://github.com/ChuaMervin/Porfortlio/blob/main/images/The-Titanic.jpg">
+  <img width="600" height="380" src="/images/The-Titanic.jpg">
 </p>
 
 
@@ -41,5 +41,5 @@ Data Science project that utilizes deep learning convolutional neural network fo
 *	Appending the result into an excel file and upload it into the Kaggle competition
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/ChuaMervin/Porfortlio/blob/main/images/Dog%20Vs%20Cat.png">
+  <img width="600" height="400" src="/images/Dog%20Vs%20Cat.png">
 </p>
