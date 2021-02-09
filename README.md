@@ -25,6 +25,10 @@ Data Science project that utilizes machine learning models to predict the surviv
 *	Sieving out the best model and using it to predict the solution.
 *	Appending the result into an excel file and upload it into the Kaggle competition
 
+<p align="center">
+  <img width="600" height="380" src="https://github.com/ChuaMervin/Porfortlio/blob/main/images/The-Titanic.jpg">
+</p>
+
 
 # [Project 3: Dogs vs Cats Classifier](https://github.com/ChuaMervin/Dogs-vs-Cats/blob/main/Dogs%20vs%20Cats%20Classification.ipynb)
 Data Science project that utilizes deep learning convolutional neural network for image classification.
@@ -35,3 +39,7 @@ Data Science project that utilizes deep learning convolutional neural network fo
 *	Train the model using a baseline CNN.
 *	Improve on the result by utilizing pre-trained CNN VGG16 and fine tuning it to achieve an accuracy of around 90% 
 *	Appending the result into an excel file and upload it into the Kaggle competition
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ChuaMervin/Porfortlio/blob/main/images/Dog%20Vs%20Cat.png">
+</p>
