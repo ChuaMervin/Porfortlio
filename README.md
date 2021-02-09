@@ -10,7 +10,7 @@ Perform statistical analysis to forecast the Consumer Price Index of Singapore f
 <p align="center">
   <img width="700" height="540" src="/images/CPI.png">
 </p>
-
+![](/images/CPI.png)
 
 # [2. Predicting the survival of the passenger on Titanic](https://github.com/ChuaMervin/Titanic_ML/blob/main/Titanic%20ML.ipynb)
 Data Science project that utilizes machine learning models to predict the survival outcome of the passenger on the Titanic shipwreck.
